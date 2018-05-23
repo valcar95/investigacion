@@ -1,0 +1,3 @@
+"yo estoy practicando git" 
+"me encuentro en el lis en clase de an lisis 2" 
+"yo victor cardona estoy practicando git en la UdeA"
